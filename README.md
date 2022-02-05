@@ -28,7 +28,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-05122A?style=flat&logo=amazon-web-services&logoColor=FF9900)&nbsp;
+![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-05122A?style=flat&logo=amazon-aws&logoColor=FF9900)&nbsp;
 
 <p align="center">
 <img height="207em" src="https://github-readme-stats.vercel.app/api?username=timguru&show_icons=true&count_private=true&line_height=28&include_all_commits=true&theme=chartreuse-light" align="center"/>
