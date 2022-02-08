@@ -32,7 +32,7 @@
 
 <p align="center">
 <img height="207em" src="https://github-readme-stats.vercel.app/api?username=timguru&show_icons=true&count_private=true&line_height=28&include_all_commits=true&theme=chartreuse-light" align="center"/>
-<img height="207em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timguru&layout=compact&theme=chartreuse-light&langs_count=10" align="center"/>
+<img height="207em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timguru&count_private=true&layout=compact&theme=chartreuse-light&langs_count=10" align="center"/>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
