@@ -35,6 +35,17 @@
 <img height="207em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timguru&count_private=true&layout=compact&theme=chartreuse-light&langs_count=10" align="center"/>
 </p>
 
+
+## Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timothymugodev&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+> **Note** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+## Github contribution graph
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=timothymugodev&theme=gotham)](https://github.com/timothymugodev/github-readme-activity-graph)
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
