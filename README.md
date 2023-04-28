@@ -52,7 +52,7 @@
 
 ## Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timothygachengo&layout=compact&theme=merko&show_icons=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=timothygachengo&layout=compact&theme=merko&show_icons=true&langs_count=10)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timothygachengo&layout=compact&theme=merko&show_icons=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=timothygachengo&size_weight=0.5&count_weight=0.5&layout=compact&theme=merko&show_icons=true&langs_count=10)
 
 > **Note** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
