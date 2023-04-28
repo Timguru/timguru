@@ -45,10 +45,9 @@
 
 # Stats
 
-<p align="center">
+## Github Contribution Stats
+
 <img height="207em" src="https://github-contribution-stats.vercel.app/api/?username=timothygachengo" align="center"/>
-<img height="207em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothygachengo&count_private=true&layout=compact&theme=chartreuse-light&langs_count=16" align="center"/>
-</p>
 
 
 ## Most Used Languages
