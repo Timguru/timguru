@@ -40,6 +40,11 @@
 <a href="https://web.facebook.com/timothy.mugo.35175"><img src="https://img.shields.io/badge/-@timothy-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
+
+<br/>
+
+# Stats
+
 <p align="center">
 <img height="207em" src="https://github-contribution-stats.vercel.app/api/?username=timothygachengo" align="center"/>
 <img height="207em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothygachengo&count_private=true&layout=compact&theme=chartreuse-light&langs_count=16" align="center"/>
