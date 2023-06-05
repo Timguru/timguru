@@ -35,7 +35,7 @@
 <p align="center">
 <a href="https://www.timothygachengo.com"><img src="https://img.shields.io/badge/-timothygachengo.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/timothy-mugo254"><img src="https://img.shields.io/badge/-Timothy%20Mugo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:timomugo01@gmail.com"><img src="https://img.shields.io/badge/-timomugo01@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:timothy@timothygachengo.com"><img src="https://img.shields.io/badge/-timomugo01@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/timothy_gachengo"><img src="https://img.shields.io/badge/-@timothy_gachengo-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://web.facebook.com/timothy.mugo.35175"><img src="https://img.shields.io/badge/-@timothy-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
